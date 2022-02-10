@@ -13,6 +13,4 @@ Download it:
 </a>
 
 ## Screenshots
-
-
-| <img src="https://play-lh.googleusercontent.com/zdWfIefkTGXlJpo0BJ9i20ygw24RWtJ9JtyjKudIAt8duBh9Nk3cpGCeeIco6peZ5WU=w1536-h754-rw" "> | <img src="https://play-lh.googleusercontent.com/fVyhV8KoxrURmbYz7Y-yFaxkUFrqre6xUjLZjm16iF9RSN_Cq2fP9UhsoxAHpMMTMw=w1536-h754-rw"> | <img src="https://play-lh.googleusercontent.com/50qaK1NAoBWyazCnUnjuw5psC2YI-iOM2kUcv1eCyoP0McAwvN4UllPKKmfvRlJIHCc=w1536-h754-rw" "> | <img src="https://play-lh.googleusercontent.com/Kydvw-fLCL9odkRU3m2DUKcn4t0V6eoyl532-WAPa_tU1pGLDRBdL_ycVVmidVn6B08=w1536-h754-rw"> |
+<img src="https://play-lh.googleusercontent.com/zdWfIefkTGXlJpo0BJ9i20ygw24RWtJ9JtyjKudIAt8duBh9Nk3cpGCeeIco6peZ5WU=w1536-h754-rw"> <img src="https://play-lh.googleusercontent.com/fVyhV8KoxrURmbYz7Y-yFaxkUFrqre6xUjLZjm16iF9RSN_Cq2fP9UhsoxAHpMMTMw=w1536-h754-rw"> <img src="https://play-lh.googleusercontent.com/50qaK1NAoBWyazCnUnjuw5psC2YI-iOM2kUcv1eCyoP0McAwvN4UllPKKmfvRlJIHCc=w1536-h754-rw"> <img src="https://play-lh.googleusercontent.com/Kydvw-fLCL9odkRU3m2DUKcn4t0V6eoyl532-WAPa_tU1pGLDRBdL_ycVVmidVn6B08=w1536-h754-rw">
